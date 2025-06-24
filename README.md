@@ -378,24 +378,4 @@ This project demonstrates advanced software engineering concepts:
 - **Assistive Technology**: Screen reader compatibility
 - **Compliance**: Accessibility standards adherence
 
-## 📝 License
-
-This project is created for educational and demonstration purposes. It showcases advanced Java programming concepts, accessibility-focused design, and comprehensive system architecture.
-
-## 🤝 Contributing
-
-This is a demonstration project, but the concepts can be extended for:
-- Real-world indoor navigation systems
-- Accessibility technology research
-- Graph algorithm optimization
-- Multi-modal interface design
-
-## 📞 Support
-
-For questions about implementation details or accessibility features, please refer to the comprehensive inline documentation and javadoc comments throughout the codebase.
-
----
-
 **Built with ❤️ for accessibility and inclusive design**
-
-*This Enhanced Indoor Navigation System demonstrates that technology can be both sophisticated and accessible, providing equal access to navigation assistance for all users regardless of their abilities.*
